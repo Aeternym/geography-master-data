@@ -1,0 +1,8 @@
+locality_id,country_id,region_id,locality_name_ru,locality_name_ru_alias,locality_name_en,locality_name_en_alias,locality_type_code,locality_type_name,timezone_name
+10001,101,1001,Североград,Северный Город,Severograd,North City,city,город,Etc/UTC
+10002,101,1001,Берёзовка,,Beryozovka,,village,деревня,Etc/UTC
+10003,101,1002,Берёзовка,,Beryozovka,,village,деревня,Etc/UTC
+10004,101,1001,Озёрный,,Ozerny,,settlement,посёлок,Etc/UTC
+10005,101,1001,Озёрный,,Ozerny-2,,village,деревня,Etc/UTC
+20001,102,2001,Центроград,,Centerville,,city,город,Etc/UTC
+

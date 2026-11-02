@@ -1,0 +1,12 @@
+case_id,source_country_value,source_country_name,source_region_value,source_region_name,source_locality_value,source_external_code,source_fias_guid,conflicting_source,expected_status
+exact-name,AA,,AA-NO,,Североград,,,false,matched
+alternative-name,,Республика Альфия,,Северный округ,Северный Город,,,false,matched
+external-code,,,,,,00100000102,,false,matched
+fias-guid,,,,,,,33333333-3333-4333-8333-333333333333,false,matched
+same-name-different-region,AA,,AA-NO,,Берёзовка,,,false,matched
+same-name-same-parent,AA,,AA-NO,,Озёрный,,,false,ambiguous
+missing-object,AA,,AA-NO,,Несуществующий,,,false,unresolved
+conflicting-sources,AA,,AA-NO,,Североград,,,true,source_conflict
+invalid-code,AA,,AA-NO,,Североград,12X,,false,unresolved
+missing-parent,AA,,AA-XX,,Североград,,,false,unresolved
+

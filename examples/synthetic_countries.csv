@@ -1,0 +1,4 @@
+country_id,country_code_alpha2,country_code_alpha3,country_code_numeric,country_name_ru,country_name_ru_alias,country_name_en,country_name_en_alias
+101,AA,AAA,001,Альфия,Республика Альфия,Alphia,Republic of Alphia
+102,BB,BBB,002,Бетания,,Betania,
+

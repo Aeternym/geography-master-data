@@ -1,0 +1,5 @@
+region_id,country_id,region_code_iso3166_2,region_name_ru,region_name_en,region_type,timezone_names
+1001,101,AA-NO,Северный округ,North District,district,Etc/UTC
+1002,101,AA-SO,Южный округ,South District,district,Etc/UTC
+2001,102,BB-CE,Центральный округ,Central District,district,Etc/UTC
+

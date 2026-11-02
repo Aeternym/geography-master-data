@@ -1,0 +1,9 @@
+locality_history_id,locality_id,version_no,country_id,region_id,locality_name_ru,locality_name_en,locality_type_code,locality_type_name,timezone_name,valid_from,valid_to,is_current
+1,10001,1,101,1001,Старый Североград,Old Severograd,city,город,Etc/UTC,2020-01-01,2024-01-01,0
+2,10001,2,101,1001,Североград,Severograd,city,город,Etc/UTC,2024-01-01,,1
+3,10002,1,101,1001,Берёзовка,Beryozovka,village,деревня,Etc/UTC,2020-01-01,,1
+4,10003,1,101,1002,Берёзовка,Beryozovka,village,деревня,Etc/UTC,2020-01-01,,1
+5,10004,1,101,1001,Озёрный,Ozerny,settlement,посёлок,Etc/UTC,2020-01-01,,1
+6,10005,1,101,1001,Озёрный,Ozerny-2,village,деревня,Etc/UTC,2020-01-01,,1
+7,20001,1,102,2001,Центроград,Centerville,city,город,Etc/UTC,2020-01-01,,1
+
